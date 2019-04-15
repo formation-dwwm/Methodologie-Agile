@@ -1,5 +1,5 @@
 # Méthodologies Agiles
 
 - [TDD / BDD](./TDD.md)
-- [Hardware build concept (draft)](./scrum.md)
-- [Motherboard Construction](./XP.md)
+- [Scrum](./scrum.md)
+- [XP](./XP.md)
